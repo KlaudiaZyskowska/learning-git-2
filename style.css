@@ -5,3 +5,7 @@ body {
 header {
     margin-left: 20px;
 }
+
+.note, .text {
+    margin-left: 20px;
+}
