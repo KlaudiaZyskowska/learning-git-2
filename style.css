@@ -11,6 +11,6 @@ header {
     margin-top: 35px;
 }
 
-span {
+span, h1 {
     font-style: italic;
 }
