@@ -14,3 +14,7 @@ header {
 span, h1 {
     font-style: italic;
 }
+
+.note, header,.text{
+    color: #2c3e50;
+}
